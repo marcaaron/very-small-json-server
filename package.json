@@ -1,0 +1,9 @@
+{
+  "name": "very-small-json-server",
+  "version": "0.1.0",
+  "description": "A Very Small HTTP Server for Local JSON Requests",
+  "main": "index.js",
+  "repository": "https://github.com/marcaaron/very-small-json-server",
+  "author": "Marc Aaron",
+  "license": "MIT"
+}
